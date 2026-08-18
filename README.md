@@ -61,7 +61,7 @@ The implemented architecture follows the workflow below:
 ---
 
 ## Project Workflow
-
+```text
 Windows Endpoint 
        ⇩
      Sysmon
@@ -77,4 +77,4 @@ Analytics Rules
 Alerts & Incidents
        ⇩
 Incident Investigation
-
+```
