@@ -1,7 +1,7 @@
 # Real-Time Threat Detection and Incident Analysis Using Endpoint Telemetry
 
 <p align="center'>
-       <img src="Architecture/Architecture_g
+       <img src="Architecture/project-architecture.png
 </p>
 
 ## Project Overview
