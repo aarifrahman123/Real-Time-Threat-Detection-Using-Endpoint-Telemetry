@@ -1,4 +1,5 @@
-# Real-Time-Threat-Detection-Using-Endpoint-Telemetry
+# Real-Time Threat Detection and Incident Analysis Using Endpoint Telemetry
+Architecture/project-architecture.png
 
 ## Project Overview
 This project demonstrates the design and implementation of a real-time threat detection and incident analysis framework using endpoint telemetry, Azure monitoring services, and Microsoft Sentinel.
