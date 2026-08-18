@@ -78,3 +78,19 @@ Alerts & Incidents
        ⇩
 Incident Investigation
 ```
+
+### Repository Structure
+
+```text
+|----Dissertation/
+|    |--- MidSem_Report.pdf
+|    |--- Final_Report.pdf
+|
+|
+|----Presentation/
+|    |--- Final_Presentation.pptx
+|
+|---- README.md
+|---- LICENSE
+```
+
