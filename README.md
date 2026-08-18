@@ -63,18 +63,18 @@ The implemented architecture follows the workflow below:
 ## Project Workflow
 
 Windows Endpoint 
-       |
+       ⇩
      Sysmon
-       |
+       ⇩
 Azure Monitor Agent
-       |
+       ⇩
 Log Analytics Workspace
-       |
+       ⇩
 Microsoft Sentinel
-       |
+       ⇩
 Analytics Rules
-       |
+       ⇩
 Alerts & Incidents
-       |
+       ⇩
 Incident Investigation
 
