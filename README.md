@@ -12,26 +12,26 @@ Organizations face increasing challenges in detecting and responding to cyber th
 Traditional monitoring approaches often lack centralized visibility and real-time correlation capabilities.
 
 This project addresses these challenges by implementing a Security Information and Event Management (SIEM) based monitoring solution capable of:
--> Collecting endpoint telemetry.
--> Centralizing security logs.
--> Detecting suspicious activities.
--> Generating alerts.
--> Supporting incident investigation.
--> Improving security visibility.
+- Collecting endpoint telemetry.
+- Centralizing security logs.
+- Detecting suspicious activities.
+- Generating alerts.
+- Supporting incident investigation.
+- Improving security visibility.
 
 ---
 
 ## Project Objectives
--> Collect endpoint telemetry using Sysmon and Windows Event Logs.
--> Centralize endpoint logs in Azure Log Analytics Workspace.
--> Configure Azure Monitor Agent (AMA) for secure data collection.
--> Integrate telemetry with Microsoft Sentinel.
--> Develop detection rules using Kusto Query Language (KQL).
--> Generate security incidents from suspicious activities.
--> Analyze and investigate security events.
--> Demonstrate a practical SIEM-based monitoring workflow.
+- Collect endpoint telemetry using Sysmon and Windows Event Logs.
+- Centralize endpoint logs in Azure Log Analytics Workspace.
+- Configure Azure Monitor Agent (AMA) for secure data collection.
+- Integrate telemetry with Microsoft Sentinel.
+- Develop detection rules using Kusto Query Language (KQL).
+- Generate security incidents from suspicious activities.
+- Analyze and investigate security events.
+- Demonstrate a practical SIEM-based monitoring workflow.
 
---
+---
 
 ## Technology Stack
 | Component          |         Technology         |
