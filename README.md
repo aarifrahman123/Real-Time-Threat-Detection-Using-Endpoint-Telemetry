@@ -84,35 +84,10 @@ Incident Investigation
 ```text
  
 📦 Repository
-
-├── 📂 Architecture
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   └── 📄 Final_Report.pdf
-│
-├── 📂 Dissertation
-│   ├── 📄 MidSem_Report.pdf
-│   └── 📄 Final_Report.pdf
-│
-├── 📂 KQL Queries
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   └── 📄 Final_Report.pdf
-│ 
-├── 📂 Presentation
-│   └── 📄 Final_Presentation.pptx
-│ 
-├── 📂 Screenshots
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   ├── 📄 MidSem_Report.pdf
-│   └── 📄 Final_Report.pdf
-│ 
-├── 📄 README.md
-│
-└── 📄 LICENSE
+ ├── 📂 Architecture
+ ├── 📂 Dissertation
+ ├── 📂 KQL Queries
+ ├── 📂 Presentation
+ ├── 📂 Screenshots
+ ├── 📄 LICENSE
+ └── 📄 README.md
