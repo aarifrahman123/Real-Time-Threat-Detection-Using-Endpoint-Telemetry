@@ -1,0 +1,4 @@
+Event
+| where source contains "Sysmon"
+| project TimeGenerated, Computer, EventID, RenderedDescription
+| order by TimeGenerated desc
