@@ -1,0 +1,5 @@
+SecurityEvent
+| where EventID == 4628
+| where CommandLine contains "powershell"
+| project TimeGenerated, Computer, Account, NewProcessName, CommandLine
+| order by TimeGenerated desc
