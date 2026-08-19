@@ -1,0 +1,4 @@
+SecurityEvent
+| where EventID == 4625
+| project TimeGenerated, Computer, TargetUserName, Activity
+| order by TimeGenerated desc
