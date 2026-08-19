@@ -1,4 +1,4 @@
-# Screenshots
+# Implementation Screenshots
 
 This folder contains implementation evidence collected during the dissertation project.
 
