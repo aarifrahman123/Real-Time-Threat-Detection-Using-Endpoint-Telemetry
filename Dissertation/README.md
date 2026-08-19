@@ -3,6 +3,6 @@ This folder contains the academic reports submitted during different phases of t
 
 ## Reports
 - MidSem Report.
-- Final Dissertation Report.
+- Final Report.
 
 The reports document the complete project lifecycle from problem identification and literature review to implementation, testing, and result analysis.
