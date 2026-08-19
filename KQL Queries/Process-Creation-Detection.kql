@@ -1,0 +1,4 @@
+SecurityEvent
+| where EventID == 4688
+| project TimeGenerated, Computer, Account, NewProcessName, CommandLine
+| order by TimeGenerated desc
